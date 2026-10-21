@@ -1,0 +1,5 @@
+bin/
+deb_package/
+dist/*.deb
+dist/*.jar
+.DS_Store
